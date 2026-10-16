@@ -1,7 +1,11 @@
-# Siki Releases
+# Siki
 
-Sikiの公式配布物をGitHub Releasesで公開するためのリポジトリです。
+現在公開しているのは、Siki version 1.0.0 に向けた開発版です。
 
-- 配布物本体は [Releases](https://github.com/romtenma/siki-release/releases) で公開します。
-- このリポジトリにはアプリのソースコードを置きません。
-- Releaseの成果物は、Windows x64インストーラとポータブル版を中心に提供します。
+このリポジトリはアプリの配布専用です。アプリのソースコードは置いていません。
+
+## ダウンロード
+
+[Windows x64 ポータブル版（0.99.18）](https://github.com/romtenma/siki-release/releases/download/v0.99.18/Siki-0.99.18-windows-x64-portable.zip)
+
+その他の配布物は [Releases](https://github.com/romtenma/siki-release/releases) からダウンロードしてください。
