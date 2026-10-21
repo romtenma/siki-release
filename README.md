@@ -6,6 +6,6 @@
 
 ## ダウンロード
 
-[Windows x64 ポータブル版（0.99.20）](https://github.com/romtenma/siki-release/releases/download/v0.99.20/Siki-0.99.20-windows-x64-portable.zip)
+[Windows x64 ポータブル版（0.99.21）](https://github.com/romtenma/siki-release/releases/download/v0.99.21/Siki-0.99.21-windows-x64-portable.zip)
 
 その他の配布物は [Releases](https://github.com/romtenma/siki-release/releases) からダウンロードしてください。
